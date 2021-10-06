@@ -1,0 +1,42 @@
+Class Name: web.camps.service.scrapping_service.YellohVillage_Scrapping
+. Method Name: All_Camps_YellohVillage
+. Execution Time : 403799ms
+
+Class Name: web.camps.service.scrapping_service.Sandaya_Scrapping
+. Method Name: All_Camps_Sandaya
+. Execution Time : 510624ms
+
+Class Name: web.camps.service.scrapping_service.Tohapi_Scrapping
+. Method Name: All_Camps_Tohapi
+. Execution Time : 452457ms
+
+Class Name: web.camps.service.scrapping_service.YellohVillage_Scrapping
+. Method Name: Price_YellohVillage
+. Execution Time : 70884ms
+
+Class Name: web.camps.service.scrapping_service.Sandaya_Scrapping
+. Method Name: All_Accommodationd_Sandaya
+. Execution Time : 38472ms
+
+Class Name: web.camps.service.scrapping_service.Tohapi_Scrapping
+. Method Name: All_Accommodationd_Tohapi
+. Execution Time : 29782ms
+
+Class Name: web.camps.service.scrapping_service.Sandaya_Scrapping
+. Method Name: Price_Sandaya
+. Execution Time : 50478ms
+
+Class Name: web.camps.service.scrapping_service.Tohapi_Scrapping
+. Method Name: Price_Tohapi
+. Execution Time : 8243ms
+
+Class Name: web.camps.service.scrapping_service.YellohVillage_Scrapping
+. Method Name: All_Accommodations_YellohVillage
+. Execution Time : 31599ms
+
+
+
+
+
+
+
